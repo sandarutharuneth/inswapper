@@ -71,3 +71,5 @@ This project is inspired by [inswapper](https://huggingface.co/deepinsight/inswa
 
 ## Contact
 If you have any issue, feel free to contact me via haofanwang.ai@gmail.com.
+
+contact
